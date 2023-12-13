@@ -32,7 +32,7 @@ This Thunkable app allows users to generate QR codes based on provided text and 
    - You can view the Design images and App UI Images i attached below this guide.
   
 4. **App Installation:**
-   - You can also download the apk file from [Here](https://drive.google.com/file/d/1OTOVp3u4hFG6_2njuKwxIDSk0Oqztjuj/view?usp=sharing)
+   - You can also download the apk file from [Here](https://drive.google.com/file/d/1OTOVp3u4hFG6_2njuKwxIDSk0Oqztjuj/view?usp=sharing).
 
 ## Usage
 
